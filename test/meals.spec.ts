@@ -1,6 +1,6 @@
 import { describe, it } from 'vitest'
 
-describe('Users routes', () => {
+describe('Meals routes', () => {
   it('It should be possible to record a meal', async () => {
     // Your implementation here
   })
